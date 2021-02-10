@@ -1,4 +1,11 @@
 ### Hi there 👋
+Меня зовут Игорь и я начинающий web - разработчки. В конце 2020 года закончил курсы Я.Практикум и сейчас закрепляю свои знания в нативном JavaScript и вертке.
+
+- 🔭 I’m currently working on [frontend](https://github.com/yagushevskij/mesto-frontend)) and [backend](https://github.com/yagushevskij/mesto-api)) blog service
+- 🌱 I’m currently learning React
+- 💬 Ask me about somethink in English. English practise is so good 😄
+- 📫 Add me on Facebook or write email
+- ⚡ Fun fact: shrimp's heart is inside of the head %)
 
 <!--
 **yagushevskij/yagushevskij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
