@@ -1,7 +1,7 @@
 ### Hi there 👋
 Меня зовут Игорь и я начинающий web - разработчки. В конце 2020 года закончил курсы Я.Практикум и сейчас закрепляю свои знания в нативном JavaScript и вертке.
 
-- 🔭 I’m currently working on [frontend](https://github.com/yagushevskij/mesto-frontend) and [backend](https://github.com/yagushevskij/mesto-api) blog service
+- 🔭 I’m currently working on web scraping
 - 🌱 I’m currently learning native JS
 - 💬 Ask me about somethink in English. English practise is so good 😄
 - 📫 Add me on Facebook or write email
